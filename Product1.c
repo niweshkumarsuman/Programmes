@@ -2,7 +2,7 @@
 int main()
 {
     int N,i,j;
-    printf("Enter the Number:\n");
+    printf("Enter the Number1:\n");
     scanf("%d",&N);
     i=N*N;
     j=2*N;
